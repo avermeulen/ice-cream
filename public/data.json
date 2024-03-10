@@ -1,0 +1,21 @@
+{
+    "toppings": [
+      { "name": "Crumbed peanuts", "price": 5.35 },
+      { "name": "Caramel dip", "price": 3.75 },
+      { "name": "Chocolate dip", "price": 5.35 },
+      { "name": "Smarties", "price": 7.55 },
+      { "name": "Oreos", "price": 11.65 },
+      { "name": "Astros", "price": 13.65 }
+    ],
+    "containers": [
+      { "name": "Plain Cone", "price": 11.75 },
+      { "name": "Sugar Cone", "price": 17.50 },
+      { "name": "Paper cup", "price": 5.00 }
+    ],
+    "flavours": [
+      { "name": "Vanilla", "price": 15.25 },
+      { "name": "Chocolate", "price": 21.75 },
+      { "name": "Strawberry", "price": 19.75 }
+    ]
+  }
+  

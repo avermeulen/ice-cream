@@ -1,0 +1,54 @@
+body {
+    background-color: #0B4F6C;
+    /* color: #36F1CD; */
+    color: #CCDDD3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.blue {
+    background-color: #39A0ED;
+}
+
+.red {
+    background-color: #fe5f55;
+}
+
+.purple {
+    background-color: #5D2E8C;
+}
+
+.ingredients {
+    display: flex;
+    flex: 3
+}
+
+.shop {
+    display: flex;
+}
+
+.cart {
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    flex: 1;
+}
+
+.ingredient {
+    padding: 1em;
+    margin: 1em;
+    border-radius: 0.5em;
+    flex : 1;
+}
+
+.list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.heading {
+    display: flex;
+}
+
+.totals {
+    margin: 1em;
+}
